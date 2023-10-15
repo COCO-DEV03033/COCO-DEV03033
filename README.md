@@ -197,11 +197,11 @@
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
+https://t.me/R_E1010
 
 # Reach out to me #
 <a href="mailto:skyangel0421@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/prodev33"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
+<a href="https://t.me/R_E1010"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
 <a href="https://stackoverflow.com/users/20497571/angel-sky"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
 <a href="https://stackoverflow.com/users/20497571/angel-sky"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
 <a href="https://askubuntu.com/users/1733253/angel-sky"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
